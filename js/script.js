@@ -32,8 +32,8 @@ console.log(typeof(answers));
 const category = "toys";
 console.log(`https://someurl.com/${category}/5/234`);
 
-const user = "Dali";
-alert(`Wellcome, ${user}`);
+// const user = "Dali";
+// alert(`Wellcome, ${user}`);
 
 var ro = [1, 2, 3, 4];
 
@@ -43,8 +43,8 @@ console.log("https://someurl.com/" + groupp);
 
 console.log(`https://someurl.com/${groupp}/5`);
 
-const man = "Felix";
-alert(`Hello, ${man}`);
+// const man = "Felix";
+// alert(`Hello, ${man}`);
 
 // конкритинация
 
